@@ -11,7 +11,7 @@ public class Output {
         return 3;
     }
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         List <Integer> item = Arrays.asList(1, 2);
         System.out.print(sumOfList(item));
     }
