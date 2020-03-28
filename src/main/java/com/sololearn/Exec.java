@@ -9,7 +9,7 @@ class Exec{ // class cannot be static
         }
 
     public static void main(String [] argS) {
-
+        Integer x = new Integer(3);
         System.out.print(x +  Exec.alter(x));
     }
 
