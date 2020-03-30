@@ -6,7 +6,7 @@ package com.sololearn;
             void print(int x);
         }
         class Check implements P{
-             void print(int x){  // print needs to be public
+           public  void print(int x){  // print needs to be public
                 System.out.print(x);
             }
             public static void main(String...arg){
