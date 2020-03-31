@@ -1,7 +1,7 @@
 package com.sololearn;
 
 public class ProgramSLN {
-
+//https://photos.app.goo.gl/ANfM6VD2LJJd6em38
         public static void main(String[]
                                         args) {
             char[] ch = { 'S', 'L', 'N' };
