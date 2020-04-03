@@ -6,7 +6,7 @@ public class Programm {
         public String a1;
 
         public A(String a1) {
-            this.a1 = a1;
+
         }
 
     }
