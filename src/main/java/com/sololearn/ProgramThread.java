@@ -2,7 +2,7 @@ package com.sololearn;
 
 class MyThread extends Thread {
     public void run(int i) {
-        System.out.print("i");
+
     }
 }
 
@@ -12,4 +12,5 @@ public class ProgramThread {
         t.start();
     }
 }
+
 // no output
