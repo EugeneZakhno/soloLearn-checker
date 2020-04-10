@@ -1,6 +1,6 @@
 package net.quizful.test18;
 
-public class Qurestion_13 {
+public class Question_13 {
     public static void main(String[] args) {
         System.out.println( 0.3 == 0.1d + 0.1d + 0.1d );
     }
