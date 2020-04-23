@@ -1,5 +1,7 @@
 package io.github.myownCheck;
 
+import java.util.ArrayList;
+
 public class FirstProgram {
     public static void main(String[] args) {
         SloganAction firstObject = new SloganAction();
@@ -13,7 +15,7 @@ public class FirstProgram {
 
 
         SloganAction fourthObject = new FlirtAction();
-
+        fourthObject.printSlogan();
     }
 }
 
