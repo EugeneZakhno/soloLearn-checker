@@ -8,6 +8,8 @@ public class LambdaIntro {
                 return a + b;
             }
         };
+
+        ISum summer2 = (a, b) -> a + b;
     }
 
     @FunctionalInterface
