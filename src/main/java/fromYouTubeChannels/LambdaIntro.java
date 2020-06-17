@@ -1,5 +1,6 @@
 package fromYouTubeChannels;
-
+// video from youtube от Вечеслава Ковалевского
+// https://www.youtube.com/watch?v=Wc4CIUlfpWg
 public class LambdaIntro {
 
     public static void main(String[] args) {
